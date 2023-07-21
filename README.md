@@ -40,4 +40,3 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
-## Description
